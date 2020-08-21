@@ -1,0 +1,18 @@
+table {
+  th {
+    background: $title-color;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    border-right: 0;
+  }
+  td {
+    text-align: center;
+    border-right: 0;
+    border-bottom: 1px dotted $fade-color;
+    padding: 3px;
+    span {
+      margin: 3px auto;
+    }
+  }
+}

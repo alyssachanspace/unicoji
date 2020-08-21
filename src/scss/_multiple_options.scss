@@ -1,0 +1,37 @@
+.multiple {
+  position: relative;
+  .preview {
+    border-color: transparent;
+    position: relative;
+    &::after {
+      content: "◢";
+      color: $neutral-light;
+      position: absolute;
+      bottom: 0;
+      right: 0;
+      font-size: 5px;
+    }
+  }
+  .options {
+    display: none;
+    position: absolute;
+    background: $primary-color-alt;
+    box-shadow: 1px 1px 10px rgba(0,0,0,0.1);
+    border-radius: 5px;
+    padding-left: 3px;
+    padding-top: 3px;
+    box-sizing: content-box;
+    z-index: 99999;
+    span {
+      background: #fff;
+    }
+  }
+  &:hover {
+    .preview {
+      opacity: 0.3;
+    }
+    .options {
+      display: flex;
+    }
+  }
+}

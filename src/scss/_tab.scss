@@ -1,0 +1,59 @@
+.tab {
+  display: block;
+  position: relative;
+  width: 700px;
+  section {
+    display: block;
+    &:last-of-type {
+      label {
+        margin-bottom: 0;
+      }
+    }
+  }
+  input[name="tab"] {
+    left: -9999px;
+    position: absolute;
+    top: -9999px;
+    &:checked {
+      + label { 
+        background: $primary-color-alt;
+        color: $primary-color;
+      }
+      ~ article {
+        display: block;
+        height: 420px;
+      }
+    }
+  }
+  label {
+    background: $primary-color;
+    color: #fff;
+    border: 0;
+    cursor: pointer;
+    display: block;
+    font-size: 0.85rem;
+    font-weight: bold;
+    padding: 8px 16px;
+    margin-bottom: 2px;
+    position: relative;
+    width: $side-menu-width;
+    box-sizing: border-box;
+  }
+  article {
+    display: none;
+    left: $side-menu-width;
+    padding: 20px;
+    position: absolute;  
+    top: 0;
+    overflow: visible auto;
+    &::after {
+      bottom: 0;
+      content: "";
+      display: block;
+      left:-230px;
+      position: absolute;
+      top: 0;
+      width: 220px;
+    }
+  }
+}

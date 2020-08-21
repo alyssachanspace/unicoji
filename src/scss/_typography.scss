@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  color: $text-color;
+  position: relative;
+  height: $body-height;
+}
+
+h2 {
+  color: $title-color;
+}
+
+a {
+  color: $link-color;
+  text-decoration: none;
+  &:hover {
+    color: $hover-color;
+  }
+}
+
+.flex {
+  display: flex;
+}
+
+.fade {
+  color: $fade-color;
+}
