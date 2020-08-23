@@ -10,6 +10,11 @@ h2 {
   color: #51b3b0;
 }
 
+h3 {
+  color: #51b3b0;
+  font-style: italic;
+}
+
 a {
   color: #baa89a;
   text-decoration: none;
@@ -29,7 +34,7 @@ a:hover {
 .tab {
   display: block;
   position: relative;
-  width: 700px;
+  width: 720px;
 }
 .tab section {
   display: block;
@@ -107,7 +112,7 @@ ul li:last-child::after {
   flex-wrap: wrap;
   position: relative;
 }
-.symbol-container > *:nth-child(12n-3).multiple .options, .symbol-container > *:nth-child(12n-2).multiple .options, .symbol-container > *:nth-child(12n-1).multiple .options, .symbol-container > *:nth-child(12n).multiple .options {
+.symbol-container > *:nth-child(13n-3).multiple .options, .symbol-container > *:nth-child(13n-2).multiple .options, .symbol-container > *:nth-child(13n-1).multiple .options, .symbol-container > *:nth-child(13n).multiple .options {
   right: 0;
 }
 
@@ -128,6 +133,10 @@ span,
 span:hover,
 .preview:hover {
   border-color: #51b3b0;
+}
+span.small,
+.preview.small {
+  font-size: 0.8rem;
 }
 
 .multiple {
@@ -153,7 +162,9 @@ span:hover,
   border-radius: 5px;
   padding-left: 3px;
   padding-top: 3px;
-  box-sizing: content-box;
+  box-sizing: border-box;
+  width: 225px;
+  flex-wrap: wrap;
   z-index: 99999;
 }
 .multiple .options span {
