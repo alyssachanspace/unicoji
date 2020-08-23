@@ -362,7 +362,7 @@
   "listing_number": {
     "message": "列表数字"
   },
-  "decorated_digits": {
+  "mathematical_digits": {
     "message": "装饰数字"
   },
   "roman_numeral": {

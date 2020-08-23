@@ -365,8 +365,8 @@
   "listing_number":{
     "message":"Listing Numbers"
   },
-  "decorated_digits":{
-    "message":"Decorated Digits"
+  "mathematical_digits":{
+    "message":"Mathematical Digits"
   },
   "roman_numeral":{
     "message":"Roman Numeral"
