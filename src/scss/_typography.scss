@@ -9,6 +9,11 @@ h2 {
   color: $title-color;
 }
 
+h3 {
+  color: $title-color;
+  font-style: italic;
+}
+
 a {
   color: $link-color;
   text-decoration: none;
