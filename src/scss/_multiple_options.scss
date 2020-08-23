@@ -20,7 +20,9 @@
     border-radius: 5px;
     padding-left: 3px;
     padding-top: 3px;
-    box-sizing: content-box;
+    box-sizing: border-box;
+    width: 225px;
+    flex-wrap: wrap;
     z-index: 99999;
     span {
       background: #fff;
