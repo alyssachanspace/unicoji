@@ -4,7 +4,7 @@
 
 ## Download
 
-**Unicoji** is available on Chrome Extension Store now. [Click here to download](https://chrome.google.com/webstore/detail/unicoji-unicode-%2B-emoji/edbciehemfmfklmljkhonhphlccabend?hl=zh-TW).
+**Unicoji** is available on Chrome Web Store now. [Click here to download](https://chrome.google.com/webstore/detail/unicoji-unicode-%2B-emoji/edbciehemfmfklmljkhonhphlccabend?hl=zh-TW).
 
 ## Outline
 
