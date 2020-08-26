@@ -2,6 +2,10 @@
 
 **Unicoji** is derived from *unicode* and *emoji*. This is a chrome extension for copying unicode/emoji symbol to clipboard.
 
+## Download
+
+**Unicoji** is available on Chrome Extension Store now. [Click here to download](https://chrome.google.com/webstore/detail/unicoji-unicode-%2B-emoji/edbciehemfmfklmljkhonhphlccabend?hl=zh-TW).
+
 ## Outline
 
 The data is based on [Full Emoji List, v13.0](https://unicode.org/emoji/charts/full-emoji-list.html) and some extra symbols.
