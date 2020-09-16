@@ -4,7 +4,7 @@
 
 ## Download
 
-**Unicoji** is available on Chrome Extension Store now. [Click here to download](https://chrome.google.com/webstore/detail/unicoji-unicode-%2B-emoji/edbciehemfmfklmljkhonhphlccabend?hl=zh-TW).
+**Unicoji** is available on Chrome Web Store now. [Click here to download](https://chrome.google.com/webstore/detail/unicoji-unicode-%2B-emoji/edbciehemfmfklmljkhonhphlccabend?hl=zh-TW).
 
 ## Outline
 
@@ -212,5 +212,7 @@ Notes:
 * [Clipboard.js](https://clipboardjs.com/)
 
 ## Changelog
+### `1.0.1` (2020-09-16)
+* Add symbols: `↑ → ↓ ← ✓ ☓ ✗ ✘ ☒`
 ### `1.0` (2020-08-23)
 * Initial release with click to copy feature.

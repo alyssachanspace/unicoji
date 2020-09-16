@@ -4616,11 +4616,17 @@
   "biohazard_name":{
     "message":"Biohazard"
   },
+  "upwards_arrow":{
+    "message":"Upwards Arrow"
+  },
   "arrow_up_name":{
     "message":"Up Arrow"
   },
   "arrow_upper_right_name":{
     "message":"Up-Right Arrow"
+  },
+  "rightwards_arrow_name":{
+    "message":"Rightwards Arrow"
   },
   "arrow_right_name":{
     "message":"Right Arrow"
@@ -4628,11 +4634,17 @@
   "arrow_lower_right_name":{
     "message":"Down-Right Arrow"
   },
+  "downwards_arrow_name":{
+    "message":"Downwards Arrow"
+  },
   "arrow_down_name":{
     "message":"Down Arrow"
   },
   "arrow_lower_left_name":{
     "message":"Down-Left Arrow"
+  },
+  "leftwards_arrow_name":{
+    "message":"Leftwards Arrow"
   },
   "arrow_left_name":{
     "message":"Left Arrow"
@@ -4904,14 +4916,29 @@
   "ballot_box_with_check_name":{
     "message":"Check Box with Check"
   },
+  "check_mark_name":{
+    "message":"Check Mark"
+  },
   "heavy_check_mark_name":{
     "message":"Check Mark"
+  },
+  "saltire_name":{
+    "message":"Saltire"
+  },
+  "ballot_x_name":{
+    "message":"Ballot X"
+  },
+  "heavy_ballot_x_name":{
+    "message":"Heavy Ballot X"
   },
   "x_name":{
     "message":"Cross Mark"
   },
   "negative_squared_cross_mark_name":{
     "message":"Cross Mark Button"
+  },
+  "ballot_box_with_x_name":{
+    "message":"Ballot Box with X"
   },
   "curly_loop_name":{
     "message":"Curly Loop"
