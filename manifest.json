@@ -1,6 +1,6 @@
 {
   "name": "__MSG_appName__",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "default_locale": "en_US",
   "description": "__MSG_appDesc__",
   "author": "Alyssa Chan",

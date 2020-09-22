@@ -212,6 +212,8 @@ Notes:
 * [Clipboard.js](https://clipboardjs.com/)
 
 ## Changelog
+### `1.0.2` (2020-09-22)
+* Add symbols: `♭ ♮ ♯`
 ### `1.0.1` (2020-09-16)
 * Add symbols: `↑ → ↓ ← ✓ ☓ ✗ ✘ ☒`
 ### `1.0` (2020-08-23)

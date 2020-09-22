@@ -11531,17 +11531,26 @@
   "1d12b_name":{
     "message":"Musical Symbol Double Flat"
   },
+  "266d_name":{
+    "message":"Musical Symbol Flat"
+  },
   "1d12c_name":{
     "message":"Musical Symbol Flat Up"
   },
   "1d12d_name":{
     "message":"Musical Symbol Flat Down"
   },
+  "266e_name":{
+    "message":"Musical Symbol Natural"
+  },
   "1d12e_name":{
     "message":"Musical Symbol Natural Up"
   },
   "1d12f_name":{
     "message":"Musical Symbol Natural Down"
+  },
+  "266f_name":{
+    "message":"Musical Symbol Sharp"
   },
   "1d130_name":{
     "message":"Musical Symbol Sharp Up"
