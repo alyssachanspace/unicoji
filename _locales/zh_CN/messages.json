@@ -1,12 +1,15 @@
 {
   "appName": {
-    "message": "Unicoji 符号表 (Unicode + Emoji)"
+    "message": "Unicoji 符号表 (Unicode + Emoji)",
+    "description":"在应用商店显示的标题。"
   },
   "appDesc": {
-    "message": "复制 unicode 及 emoji 符号。"
+    "message": "复制 unicode 及 emoji 符号。",
+    "description":"在应用商店显示的描述。"
   },
   "tooltip": {
-    "message": "Unicoji"
+    "message": "Unicoji",
+    "description":"工具提示。"
   },
   "version": {
     "message":"版本："
@@ -608,6 +611,9 @@
   "upside_down_face_name":{
     "message":"Upside-Down Face"
   },
+  "melting_face_name":{
+    "message":"Melting Face"
+  },
   "wink_name":{
     "message":"Winking Face"
   },
@@ -668,11 +674,20 @@
   "face_with_hand_over_mouth_name":{
     "message":"Face with Hand over Mouth"
   },
+  "face_with_open_eyes_and_hand_over_mouth_name":{
+    "message":"Face with Open Eyes and Hand over Mouth"
+  },
+  "face_with_peeking_eye_name":{
+    "message":"Face with Peeking Eye"
+  },
   "shushing_face_name":{
     "message":"Shushing Face"
   },
   "thinking_name":{
     "message":"Thinking Face"
+  },
+  "saluting_face_name":{
+    "message":"Saluting Face"
   },
   "zipper_mouth_face_name":{
     "message":"Zipper-Mouth Face"
@@ -689,6 +704,12 @@
   "no_mouth_name":{
     "message":"Face without Mouth"
   },
+  "dotted_line_face_name":{
+    "message":"Dotted Line Face"
+  },
+  "face_in_clouds_name":{
+    "message":"Face in Clouds"
+  },
   "smirk_name":{
     "message":"Smirking Face"
   },
@@ -700,6 +721,9 @@
   },
   "grimacing_name":{
     "message":"Grimacing Face"
+  },
+  "face_exhaling_name":{
+    "message":"Face Exhaling"
   },
   "lying_face_name":{
     "message":"Lying Face"
@@ -747,7 +771,10 @@
     "message":"Woozy Face"
   },
   "dizzy_face_name":{
-    "message":"Knocked-Out Face"
+    "message":"Face with Crossed-out Eyes"
+  },
+  "face_with_spiral_eyes_name":{
+    "message":"Face with Spiral Eyes"
   },
   "exploding_head_name":{
     "message":"Exploding Head"
@@ -773,6 +800,9 @@
   "confused_name":{
     "message":"Confused Face"
   },
+  "face_with_diagonal_mouth_name":{
+    "message":"Face with Diagonal Mouth"
+  },
   "worried_name":{
     "message":"Worried Face"
   },
@@ -796,6 +826,9 @@
   },
   "pleading_face_name":{
     "message":"Pleading Face"
+  },
+  "face_holding_back_tears_name":{
+    "message":"Face Holding Back Tears"
   },
   "frowning_name":{
     "message":"Frowning Face with Open Mouth"
@@ -962,6 +995,12 @@
   "broken_heart_name":{
     "message":"Broken Heart"
   },
+  "heart_on_fire_name__":{
+    "message":"Heart on Fire"
+  },
+  "mending_heart_name":{
+    "message":"Mending Heart"
+  },
   "heart_name":{
     "message":"Red Heart"
   },
@@ -1046,6 +1085,18 @@
   "vulcan_salute_name":{
     "message":"Vulcan Salute"
   },
+  "rightwards_hand_name":{
+    "message":"Rightwards Hand"
+  },
+  "leftwards_hand_name":{
+    "message":"Leftwards Hand"
+  },
+  "palm_down_hand_name":{
+    "message":"Palm Down Hand"
+  },
+  "palm_up_hand_name":{
+    "message":"Palm Up Hand"
+  },
   "ok_hand_name":{
     "message":"OK Hand"
   },
@@ -1060,6 +1111,9 @@
   },
   "crossed_fingers_name":{
     "message":"Crossed Fingers"
+  },
+  "hand_with_index_finger_and_thumb_crossed_name":{
+    "message":"Hand with Index Finger and Thumb Crossed"
   },
   "love_you_gesture_name":{
     "message":"Love-You Gesture"
@@ -1088,6 +1142,9 @@
   "point_up_name":{
     "message":"Index Pointing Up"
   },
+  "index_pointing_at_the_viewer_name":{
+    "message":"Index Pointing at the Viewer"
+  },
   "thumbsup_name":{
     "message":"Thumbs Up"
   },
@@ -1111,6 +1168,9 @@
   },
   "raised_hands_name":{
     "message":"Raising Hands"
+  },
+  "heart_hands_name":{
+    "message":"Heart Hands"
   },
   "open_hands_name":{
     "message":"Open Hands"
@@ -1184,6 +1244,9 @@
   "lips_name":{
     "message":"Mouth"
   },
+  "biting_lip_name":{
+    "message":"Biting Lip"
+  },
   "baby_name":{
     "message":"Baby"
   },
@@ -1207,6 +1270,12 @@
   },
   "bearded_person_name":{
     "message":"Person: Beard"
+  },
+  "man_beard_name":{
+    "message":"Man: Beard"
+  },
+  "woman_beard_name":{
+    "message":"Woman: Beard"
   },
   "man_red_haired_name":{
     "message":"Man: Red Hair"
@@ -1535,6 +1604,9 @@
   "construction_worker_woman_name":{
     "message":"Woman Construction Worker"
   },
+  "person_with_crown_name":{
+    "message":"Person with Crown"
+  },
   "prince_name":{
     "message":"Prince"
   },
@@ -1576,6 +1648,12 @@
   },
   "pregnant_woman_name":{
     "message":"Pregnant Woman"
+  },
+  "pregnant_man_name":{
+    "message":"Pregnant Man"
+  },
+  "pregnant_person_name":{
+    "message":"Pregnant Person"
   },
   "breast_feeding_name":{
     "message":"Breast-Feeding"
@@ -1681,6 +1759,9 @@
   },
   "woman_zombie_name":{
     "message":"Woman Zombie"
+  },
+  "troll_name":{
+    "message":"Troll"
   },
   "massage_name":{
     "message":"Person Getting Massage"
@@ -2387,6 +2468,9 @@
   "shell_name":{
     "message":"Spiral Shell"
   },
+  "coral_name":{
+    "message":"Coral"
+  },
   "snail_name":{
     "message":"Snail"
   },
@@ -2443,6 +2527,9 @@
   },
   "white_flower_name":{
     "message":"White Flower"
+  },
+  "lotus_name":{
+    "message":"Lotus"
   },
   "rosette_name":{
     "message":"Rosette"
@@ -2503,6 +2590,12 @@
   },
   "leaves_name":{
     "message":"Leaf Fluttering in Wind"
+  },
+  "empty_nest_name":{
+    "message":"Empty Nest"
+  },
+  "nest_with_eggs_name":{
+    "message":"Nest with Eggs"
   },
   "grapes_name":{
     "message":"Grapes"
@@ -2602,6 +2695,9 @@
   },
   "peanuts_name":{
     "message":"Peanuts"
+  },
+  "beans_name":{
+    "message":"Beans"
   },
   "chestnut_name":{
     "message":"Chestnut"
@@ -2858,6 +2954,9 @@
   "tumbler_glass_name":{
     "message":"Tumbler Glass"
   },
+  "pouring_liquid_name":{
+    "message":"Pouring_Liquid"
+  },
   "cup_with_straw_name":{
     "message":"Cup with Straw"
   },
@@ -2887,6 +2986,9 @@
   },
   "knife_name":{
     "message":"Kitchen Knife"
+  },
+  "jar_name":{
+    "message":"Jar"
   },
   "amphora_name":{
     "message":"Amphora"
@@ -3074,6 +3176,9 @@
   "carousel_horse_name":{
     "message":"Carousel Horse"
   },
+  "playground_slide_name":{
+    "message":"Playground Slide"
+  },
   "ferris_wheel_name":{
     "message":"Ferris Wheel"
   },
@@ -3218,6 +3323,9 @@
   "fuelpump_name":{
     "message":"Fuel Pump"
   },
+  "wheel_name":{
+    "message":"Wheel"
+  },
   "rotating_light_name":{
     "message":"Police Car Light"
   },
@@ -3235,6 +3343,9 @@
   },
   "anchor_name":{
     "message":"Anchor"
+  },
+  "ring_buoy_name":{
+    "message":"Ring Buoy"
   },
   "sailboat_name":{
     "message":"Sailboat"
@@ -3719,6 +3830,9 @@
   "nazar_amulet_name":{
     "message":"Nazar Amulet"
   },
+  "hamsa_amulet_name":{
+    "message":"Hamsa"
+  },
   "video_game_name":{
     "message":"Video Game"
   },
@@ -3739,6 +3853,9 @@
   },
   "pinata_name":{
     "message":"Piñata"
+  },
+  "mirror_ball_name":{
+    "message":"Mirror Ball"
   },
   "nesting_dolls_name":{
     "message":"Nesting Dolls"
@@ -4024,6 +4141,9 @@
   },
   "battery_name":{
     "message":"Battery"
+  },
+  "low_battery_name":{
+    "message":"Low Battery"
   },
   "electric_plug_name":{
     "message":"Electric Plug"
@@ -4445,8 +4565,14 @@
   "adhesive_bandage_name":{
     "message":"Adhesive Bandage"
   },
+  "crutch_name":{
+    "message":"Crutch"
+  },
   "stethoscope_name":{
     "message":"Stethoscope"
+  },
+  "x_ray_name":{
+    "message":"X-Ray"
   },
   "door_name":{
     "message":"Door"
@@ -4508,6 +4634,9 @@
   "soap_name":{
     "message":"Soap"
   },
+  "bubbles_name":{
+    "message":"Bubbles"
+  },
   "toothbrush_name":{
     "message":"Toothbrush"
   },
@@ -4537,6 +4666,9 @@
   },
   "placard_name":{
     "message":"Placard"
+  },
+  "identification_card_name":{
+    "message":"Identification Card"
   },
   "atm_name":{
     "message":"ATM Sign"
@@ -4859,6 +4991,9 @@
   "heavy_division_sign_name":{
     "message":"Divide"
   },
+  "heavy_equals_sign_name":{
+    "message":"Equals"
+  },
   "infinity_name":{
     "message":"Infinity"
   },
@@ -4920,7 +5055,7 @@
     "message":"Check Mark"
   },
   "heavy_check_mark_name":{
-    "message":"Check Mark"
+    "message":"Heavy Check Mark"
   },
   "saltire_name":{
     "message":"Saltire"
@@ -6107,6 +6242,66 @@
   "vulcan_salute_dark_skin_tone_name":{
     "message":"Vulcan Salute: Dark Skin Tone"
   },
+  "rightwards_hand_light_skin_tone_name":{
+    "message":"Rightwards Hand: Light Skin Tone"
+  },
+  "rightwards_hand_medium_light_skin_tone_name":{
+    "message":"Rightwards Hand: Medium-Light Skin Tone"
+  },
+  "rightwards_hand_medium_skin_tone_name":{
+    "message":"Rightwards Hand: Medium Skin Tone"
+  },
+  "rightwards_hand_medium_dark_skin_tone_name":{
+    "message":"Rightwards Hand: Medium-Dark Skin Tone"
+  },
+  "rightwards_hand_dark_skin_tone_name":{
+    "message":"Rightwards Hand: Dark Skin Tone"
+  },
+  "leftwards_hand_light_skin_tone_name":{
+    "message":"Leftwards Hand: Light Skin Tone"
+  },
+  "leftwards_hand_medium_light_skin_tone_name":{
+    "message":"Leftwards Hand: Medium-Light Skin Tone"
+  },
+  "leftwards_hand_medium_skin_tone_name":{
+    "message":"Leftwards Hand: Medium Skin Tone"
+  },
+  "leftwards_hand_medium_dark_skin_tone_name":{
+    "message":"Leftwards Hand: Medium-Dark Skin Tone"
+  },
+  "leftwards_hand_dark_skin_tone_name":{
+    "message":"Leftwards Hand: Dark Skin Tone"
+  },
+  "palm_down_hand_light_skin_tone_name":{
+    "message":"Palm Down Hand: Light Skin Tone"
+  },
+  "palm_down_hand_medium_light_skin_tone_name":{
+    "message":"Palm Down Hand: Medium-Light Skin Tone"
+  },
+  "palm_down_hand_medium_skin_tone_name":{
+    "message":"Palm Down Hand: Medium Skin Tone"
+  },
+  "palm_down_hand_medium_dark_skin_tone_name":{
+    "message":"Palm Down Hand: Medium-Dark Skin Tone"
+  },
+  "palm_down_hand_dark_skin_tone_name":{
+    "message":"Palm Down Hand: Dark Skin Tone"
+  },
+  "palm_up_hand_light_skin_tone_name":{
+    "message":"Palm Up Hand: Light Skin Tone"
+  },
+  "palm_up_hand_medium_light_skin_tone_name":{
+    "message":"Palm Up Hand: Medium-Light Skin Tone"
+  },
+  "palm_up_hand_medium_skin_tone_name":{
+    "message":"Palm Up Hand: Medium Skin Tone"
+  },
+  "palm_up_hand_medium_dark_skin_tone_name":{
+    "message":"Palm Up Hand: Medium-Dark Skin Tone"
+  },
+  "palm_up_hand_dark_skin_tone_name":{
+    "message":"Palm Up Hand: Dark Skin Tone"
+  },
   "ok_hand_light_skin_tone_name":{
     "message":"OK Hand: Light Skin Tone"
   },
@@ -6181,6 +6376,21 @@
   },
   "crossed_fingers_dark_skin_tone_name":{
     "message":"Crossed Fingers: Dark Skin Tone"
+  },
+  "hand_with_index_finger_and_thumb_crossed_light_skin_tone_name":{
+    "message":"Hand with Index Finger and Thumb Crossed: Light Skin Tone"
+  },
+  "hand_with_index_finger_and_thumb_crossed_medium_light_skin_tone_name":{
+    "message":"Hand with Index Finger and Thumb Crossed: Medium-Light Skin Tone"
+  },
+  "hand_with_index_finger_and_thumb_crossed_medium_skin_tone_name":{
+    "message":"Hand with Index Finger and Thumb Crossed: Medium Skin Tone"
+  },
+  "hand_with_index_finger_and_thumb_crossed_medium_dark_skin_tone_name":{
+    "message":"Hand with Index Finger and Thumb Crossed: Medium-Dark Skin Tone"
+  },
+  "hand_with_index_finger_and_thumb_crossed_dark_skin_tone_name":{
+    "message":"Hand with Index Finger and Thumb Crossed: Dark Skin Tone"
   },
   "love_you_gesture_light_skin_tone_name":{
     "message":"Love-You Gesture: Light Skin Tone"
@@ -6317,6 +6527,21 @@
   "index_pointing_up_dark_skin_tone_name":{
     "message":"Index Pointing Up: Dark Skin Tone"
   },
+  "index_pointing_at_the_viewer_light_skin_tone_name":{
+    "message":"Index Pointing at the Viewer: Light Skin Tone"
+  },
+  "index_pointing_at_the_viewer_medium_light_skin_tone_name":{
+    "message":"Index Pointing at the Viewer: Medium-Light Skin Tone"
+  },
+  "index_pointing_at_the_viewer_medium_skin_tone_name":{
+    "message":"Index Pointing at the Viewer: Medium Skin Tone"
+  },
+  "index_pointing_at_the_viewer_medium_dark_skin_tone_name":{
+    "message":"Index Pointing at the Viewer: Medium-Dark Skin Tone"
+  },
+  "index_pointing_at_the_viewer_dark_skin_tone_name":{
+    "message":"Index Pointing at the Viewer: Dark Skin Tone"
+  },
   "thumbs_up_light_skin_tone_name":{
     "message":"Thumbs Up: Light Skin Tone"
   },
@@ -6436,6 +6661,21 @@
   },
   "raising_hands_dark_skin_tone_name":{
     "message":"Raising Hands: Dark Skin Tone"
+  },
+  "heart_hands_light_skin_tone_name":{
+    "message":"Heart Hands: Light Skin Tone"
+  },
+  "heart_hands_medium_light_skin_tone_name":{
+    "message":"Heart Hands: Medium-Light Skin Tone"
+  },
+  "heart_hands_medium_skin_tone_name":{
+    "message":"Heart Hands: Medium Skin Tone"
+  },
+  "heart_hands_medium_dark_skin_tone_name":{
+    "message":"Heart Hands: Medium-Dark Skin Tone"
+  },
+  "heart_hands_dark_skin_tone_name":{
+    "message":"Heart Hands: Dark Skin Tone"
   },
   "open_hands_light_skin_tone_name":{
     "message":"Open Hands: Light Skin Tone"
@@ -6739,6 +6979,36 @@
   },
   "person_dark_skin_tone_beard_name":{
     "message":"Person: Dark Skin Tone, Beard"
+  },
+  "man_light_skin_tone_beard_name":{
+    "message":"Man: Light Skin Tone, Beard"
+  },
+  "man_medium_light_skin_tone_beard_name":{
+    "message":"Man: Medium-Light Skin Tone, Beard"
+  },
+  "man_medium_skin_tone_beard_name":{
+    "message":"Man: Medium Skin Tone, Beard"
+  },
+  "man_medium_dark_skin_tone_beard_name":{
+    "message":"Man: Medium-Dark Skin Tone, Beard"
+  },
+  "man_dark_skin_tone_beard_name":{
+    "message":"Man: Dark Skin Tone, Beard"
+  },
+  "woman_light_skin_tone_beard_name":{
+    "message":"Woman: Light Skin Tone, Beard"
+  },
+  "woman_medium_light_skin_tone_beard_name":{
+    "message":"Woman: Medium-Light Skin Tone, Beard"
+  },
+  "woman_medium_skin_tone_beard_name":{
+    "message":"Woman: Medium Skin Tone, Beard"
+  },
+  "woman_medium_dark_skin_tone_beard_name":{
+    "message":"Woman: Medium-Dark Skin Tone, Beard"
+  },
+  "woman_dark_skin_tone_beard_name":{
+    "message":"Woman: Dark Skin Tone, Beard"
   },
   "man_light_skin_tone_red_hair_name":{
     "message":"Man: Light Skin Tone, Red Hair"
@@ -8375,6 +8645,21 @@
   "woman_construction_worker_dark_skin_tone_name":{
     "message":"Woman Construction Worker: Dark Skin Tone"
   },
+  "person_with_crown_light_skin_tone_name":{
+    "message":"Person with Crown: Light Skin Tone"
+  },
+  "person_with_crown_medium_light_skin_tone_name":{
+    "message":"Person with Crown: Medium-Light Skin Tone"
+  },
+  "person_with_crown_medium_skin_tone_name":{
+    "message":"Person with Crown: Medium Skin Tone"
+  },
+  "person_with_crown_medium_dark_skin_tone_name":{
+    "message":"Person with Crown: Medium-Dark Skin Tone"
+  },
+  "person_with_crown_dark_skin_tone_name":{
+    "message":"Person with Crownw: Dark Skin Tone"
+  },
   "prince_light_skin_tone_name":{
     "message":"Prince: Light Skin Tone"
   },
@@ -8584,6 +8869,36 @@
   },
   "pregnant_woman_dark_skin_tone_name":{
     "message":"Pregnant Woman: Dark Skin Tone"
+  },
+  "pregnant_man_light_skin_tone_name":{
+    "message":"Pregnant Man: Light Skin Tone"
+  },
+  "pregnant_man_medium_light_skin_tone_name":{
+    "message":"Pregnant Man: Medium-Light Skin Tone"
+  },
+  "pregnant_man_medium_skin_tone_name":{
+    "message":"Pregnant Man: Medium Skin Tone"
+  },
+  "pregnant_man_medium_dark_skin_tone_name":{
+    "message":"Pregnant Man: Medium-Dark Skin Tone"
+  },
+  "pregnant_man_dark_skin_tone_name":{
+    "message":"Pregnant Man: Dark Skin Tone"
+  },
+  "pregnant_person_light_skin_tone_name":{
+    "message":"Pregnant Person: Light Skin Tone"
+  },
+  "pregnant_person_medium_light_skin_tone_name":{
+    "message":"Pregnant Person: Medium-Light Skin Tone"
+  },
+  "pregnant_person_medium_skin_tone_name":{
+    "message":"Pregnant Person: Medium Skin Tone"
+  },
+  "pregnant_person_medium_dark_skin_tone_name":{
+    "message":"Pregnant Person: Medium-Dark Skin Tone"
+  },
+  "pregnant_person_dark_skin_tone_name":{
+    "message":"Pregnant Person: Dark Skin Tone"
   },
   "breast_feeding_light_skin_tone_name":{
     "message":"Breast-Feeding: Light Skin Tone"

@@ -8,7 +8,7 @@
 
 ## Outline
 
-The data is based on [Full Emoji List, v13.0](https://unicode.org/emoji/charts/full-emoji-list.html) and some extra symbols.
+The data is based on [Full Emoji List, v14.0](https://unicode.org/emoji/charts/full-emoji-list.html) and some extra symbols.
 
 1. Smileys & Emotion
    - Face Smiling
@@ -71,7 +71,7 @@ The data is based on [Full Emoji List, v13.0](https://unicode.org/emoji/charts/f
    - Place Other
    - Transport Ground
    - Transport Water
-   - Transport Air"
+   - Transport Air
    - Hotel
    - Time
    - Sky & Weather
@@ -106,7 +106,7 @@ The data is based on [Full Emoji List, v13.0](https://unicode.org/emoji/charts/f
    - Arrow
    - Religion
    - Zodiac
-   - Av Symbol
+   - AV Symbol
    - Gender
    - Math
    - Punctuation
@@ -208,10 +208,13 @@ Notes:
 
 ## Credits
 
-* [Full Emoji List, v13.0](https://unicode.org/emoji/charts/full-emoji-list.html)
+* [Full Emoji List, v14.0](https://unicode.org/emoji/charts/full-emoji-list.html)
 * [Clipboard.js](https://clipboardjs.com/)
 
 ## Changelog
+### `1.0.3` (2022-04-22)
+* Update clipboard.js v2.0.10
+* Update emoji [v13.1](https://emojis.wiki/emoji-version-13-1/) & [v14.0](https://emojipedia.org/emoji-14.0/)
 ### `1.0.2` (2020-09-22)
 * Add symbols: `♭ ♮ ♯`
 ### `1.0.1` (2020-09-16)
