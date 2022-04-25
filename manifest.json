@@ -20,6 +20,5 @@
       "128": "images/icon-128.png"
     }
   },
-  "permissions": ["tabs"],
   "manifest_version": 3
 }
